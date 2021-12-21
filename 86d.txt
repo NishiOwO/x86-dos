@@ -1,0 +1,8 @@
+86D[Type][Name][Files]
+Type - 1 byte
+  S - System Disk
+  N - Normal Disk
+Name - 30 bytes
+
+File block
+[Filename: 30 bytes][size: 8 bytes][contents: (size) bytes]

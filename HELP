@@ -1,0 +1,50 @@
+==== x86-DOS v1.00 Rev. C HELP =================================================
+ + dir
+ + reboot
+ + ver
+ + cls
+ + lic
+ + tst_g
+ + rbas
+ + help
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- dir
+Shows the files of your directory.
+
+--- reboot
+Reboots your computer.
+
+--- ver
+Shows the version of x86-DOS.
+
+--- cls
+Clears your screen.
+
+--- lic
+Shows the license.
+
+--- tst_g
+Currently, it does (almost) nothing.
+
+--- rbas
+Tries to boot the ROM-BASIC.
+Note: Almost modern computers fail to boot.
+
+
+
+--- help
+Shows this help.
